@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleApp.NET/.vs/ConsoleApp.NET
+/ConsoleApp.NET/obj
+/ConsoleApp.NET/bin/Debug/net8.0
